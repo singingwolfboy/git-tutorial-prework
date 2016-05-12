@@ -31,6 +31,7 @@ running:
 
 * `Installation for OS X <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-OSX.rst>`_
 * `Installation for Windows <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-WIN.rst>`_
+* `Installation for GNU/Linux <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-GNU-LINUX.rst>`_
 
 Using the Command Line
 ----------------------
