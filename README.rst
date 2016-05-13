@@ -25,13 +25,16 @@ your computer. Not only do package managers make it easy to find and install
 software, but they also make it easy to uninstall software, ensure that new
 software packages don't break old ones, make it easy to upgrade software,
 and keep your computer more secure. For OS X, you should use Homebrew_, and
-for Windows, you should use Chocolatey_. I've written installation guides
-for each of these operating systems that should make it easy to get up and
-running:
+for Windows, you should use Chocolatey_. Linux uses a package manager by default,
+so it's even easier!
+
+If you need help, there are several installation guides in this repository.
+Pick the one for your operating system!
 
 * `Installation for OS X <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-OSX.rst>`_
 * `Installation for Windows <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-WIN.rst>`_
-* `Installation for GNU/Linux <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-GNU-LINUX.rst>`_
+* `Installation for Ubuntu Linux or Debian Linux <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-DEB.rst>`_
+* `Installation for Arch Linux <https://github.com/singingwolfboy/git-tutorial-prework/blob/master/INSTALL-ARCH.rst>`_
 
 Using the Command Line
 ----------------------
