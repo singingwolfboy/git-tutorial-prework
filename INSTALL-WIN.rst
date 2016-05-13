@@ -74,23 +74,19 @@ installing themes and plugins for that shell. You don't need to install these
 things, but they make it easier to keep track of where you are and what you're
 doing when you use Git.
 
-With Chocolatey, installing Zsh_ is a breeze:
+To run Zsh and oh-my-zsh on Windows, we're going to use a piece of software
+called Babun_. With Chocolatey, installing Babun is a breeze:
 
 .. code-block:: bash
 
-    C:\> choco install zsh
+    C:\> choco install babun
 
-Then install `oh-my-zsh`_ by following the directions on the homepage:
+Now you'll be able to run Babun from the Start menu. Use it *instead* of your
+normal `cmd.exe` command line. Babun is already set up with Zsh and oh-my-zsh,
+so you're all done!
 
-.. code-block:: bash
-
-    C:\> sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
-Open a new command line window, and verify that it looks different -- and
-probably a lot nicer! If you don't like the way it looks, you can edit the
+If you don't like the way it looks, you can edit the
 ``.zshrc`` file in your home directory and pick a different theme.
-
-You're all done!
 
 .. _Get Started With Git: https://us.pycon.org/2016/schedule/presentation/1620/
 .. _Chocolatey: https://chocolatey.org/
@@ -98,3 +94,4 @@ You're all done!
 .. _Atom: https://atom.io/
 .. _Zsh: http://www.zsh.org/
 .. _oh-my-zsh: http://ohmyz.sh/
+.. _Babun: https://babun.github.io/
