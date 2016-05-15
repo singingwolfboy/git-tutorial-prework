@@ -66,8 +66,15 @@ For example, if you use the account "Steve" on your computer, then Atom will be
 installed to ``/Users/Steve/Applications/Atom.app``. You can drag that icon
 to your Dock, so that it's easer to open in the future.
 
-Next, we need to tell Git how to find and use Atom. Fortunately, this only
-requires running one command:
+Next, we need to tell Git how to find and use Atom. First, verify that you can
+run Atom from the command line, like this:
+
+.. code-block:: bash
+
+    $ atom
+
+That should launch a new Atom window. If it does, you can teach Git about this
+``atom`` command by running this command:
 
 .. code-block:: bash
 
