@@ -99,6 +99,6 @@ If not, `check this StackOverflow question for assistance
 .. _Babun: https://babun.github.io/
 .. _Download Babun: http://projects.reficio.org/babun/download
 .. _issue 11756: https://github.com/atom/atom/issues/11756
-.. _pull request 11762: https://github.com/atom/atom/pull/11762
+.. _pull request 11762: https://github.com/atom/atom/pull/11762/files#diff-1
 .. _Sublime Text: https://sublimetext.com/
 .. _Download Sublime Text: https://sublimetext.com/3
