@@ -24,9 +24,10 @@ I strongly recommend using a `package manager`_ for installing software on
 your computer. Not only do package managers make it easy to find and install
 software, but they also make it easy to uninstall software, ensure that new
 software packages don't break old ones, make it easy to upgrade software,
-and keep your computer more secure. For OS X, you should use Homebrew_, and
-for Windows, you should use Chocolatey_. Linux uses a package manager by default,
-so it's even easier!
+and keep your computer more secure. OS X has a package manager called
+Homebrew_, and Windows has a package manager called Chocolatey_. However,
+Windows users are probably better off installing Babun_, which bundles together
+most of the software you'll need for this tutorial.
 
 If you need help, there are several installation guides in this repository.
 Pick the one for your operating system!
@@ -91,4 +92,5 @@ can improve! Note that creating a GitHub issue requires a GitHub account.
 .. _package manager: https://en.wikipedia.org/wiki/Package_manager
 .. _Homebrew: http://brew.sh/
 .. _Chocolatey: https://chocolatey.org/
+.. _Babun: https://babun.github.io/
 .. _create a GitHub Issue for this repository: https://github.com/singingwolfboy/git-tutorial-prework/issues
