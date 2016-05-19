@@ -48,8 +48,9 @@ Check that it worked by asking Git what the "core.editor" config value is:
     atom --wait
 
 If you're unable to run Atom from the command line, you may have have hit
-`issue 11756`_, which you can resolve by editing the ``atom.sh`` file to remove
-the ``-W`` flag. Alternatively, you can install a different text editor.
+`issue 11756`_. You can resolve the problem by editing the ``atom.sh`` file
+to modify it based on `pull request 11762`_. If that's too difficult,
+you can install a different text editor instead.
 
 Install Sublime Text
 --------------------
@@ -98,5 +99,6 @@ If not, `check this StackOverflow question for assistance
 .. _Babun: https://babun.github.io/
 .. _Download Babun: http://projects.reficio.org/babun/download
 .. _issue 11756: https://github.com/atom/atom/issues/11756
+.. _pull request 11762: https://github.com/atom/atom/pull/11762
 .. _Sublime Text: https://sublimetext.com/
 .. _Download Sublime Text: https://sublimetext.com/3
