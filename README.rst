@@ -1,9 +1,9 @@
 Git Tutorial Prework
 ====================
 
-Thanks for signing up for the `Get Started With Git`_ tutorial at PyCon 2016!
+Thanks for signing up to learn about Git!
 We're going to cover a *lot* of information in this tutorial, and even though
-3 hours sounds like a long time, it's going to be tough to get through
+2 hours sounds like a long time, it's going to be tough to get through
 everything. To make sure that we move as quickly as possible, you should make
 sure that you've done all the following things *before* the tutorial begins:
 
@@ -81,7 +81,6 @@ this repository`_. Issues are a great way to collect and organize feedback,
 so please feel free to contribute ideas and suggestions for how the instructor
 can improve! Note that creating a GitHub issue requires a GitHub account.
 
-.. _Get Started With Git: https://us.pycon.org/2016/schedule/presentation/1620/
 .. _Git: https://git-scm.com/
 .. _Atom: https://atom.io/
 .. _Zsh: http://www.zsh.org/
